@@ -97,24 +97,3 @@ Implemented CI/CD workflows to improve deployment speed, release control, rollba
 
 Worked with CRM automation, Calendly API, Google Maps API, Telnyx SMS, REST APIs, payment gateway logic, webhooks, CRON jobs, and database workflows.
 
-## Featured Project Areas
-
-Internal Management Systems
-
-Business tools for staff/admin workflows, product assignment, inventory tracking, scheduling, secure data handling, and operational visibility.
-
-WordPress + Lodgix Workflow Systems
-
-Custom WordPress development, rental website management, SEO structure, performance optimization, and integration-friendly workflows.
-
-CRM + API Automation
-
-Connected systems using REST APIs, webhooks, SMS workflows, appointment booking logic, customer communication, and backend automation.
-
-Performance + SEO Engineering
-
-Core Web Vitals, Lighthouse, GTmetrix, image optimization, caching, analytics, Google Search Console, and technical SEO cleanup.
-
-AI + Automation Lab
-
-Experimenting with local AI, automation systems, developer tools, and workflows that reduce repetitive technical work.
