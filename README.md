@@ -36,3 +36,85 @@ APIs:           REST APIs · CRM Integrations · Webhooks · Calendly · Google 
 DevOps:         Git · CI/CD · Cloud hosting · VPS · cPanel · CRON jobs · Staging/Production workflows
 Performance:    Core Web Vitals · Lighthouse · GTmetrix · Caching · Image optimization · SEO
 Business Tools: Internal dashboards · Inventory systems · Staff portals · Automation workflows
+```
+## What I Build
+
+Custom WordPress websites with business-focused backend workflows
+
+Laravel-based internal tools for operations, inventory, scheduling, and reporting
+
+CRM and API integrations that connect disconnected business systems
+
+Automation workflows that reduce repetitive manual work
+
+Admin dashboards for teams, leads, appointments, projects, and operational data
+
+Performance-focused websites using caching, code cleanup, image optimization, and Core Web Vitals tuning
+
+Secure systems with controlled access, staging workflows, backups, and deployment discipline
+
+## Professional Focus
+```text
+Build systems that are stable.
+Reduce recurring issues.
+Automate repetitive work.
+Improve visibility for teams.
+Make business operations easier to manage.
+```
+
+I am especially interested in projects where web development, automation, APIs, AI, and business operations come together.
+
+## Current Work
+
+At Jayne's Luxury Rentals, I work as a Web Developer & IT Manager, building and maintaining web systems, rental workflow support, internal tools, automation, SEO, analytics, performance, cloud hosting, server troubleshooting, CRM workflows, CRON jobs, and production support.
+
+## Key areas of work include:
+
+```text
+Custom WordPress development
+Laravel internal business tools
+Website performance optimization
+Live/staging deployment workflows
+CI/CD and release control
+CRM and third-party integrations
+Google Search Console, analytics, SEO, and Core Web Vitals
+Server monitoring, debugging, and production troubleshooting
+```
+
+## Career Highlights
+
+Built and launched a custom WordPress website with theme and plugin functionality to support rental workflows and backend usability.
+
+Improved website performance using image optimization, caching, code cleanup, minification, and performance tuning.
+
+Helped reduce recurring website issues by approximately 90% through debugging, testing, custom development, monitoring, and production support.
+
+Developed Laravel-based internal tools for inventory, scheduling, tracking, staff/admin workflows, and operational visibility.
+
+Built automation processes to reduce repetitive manual work and improve consistency across connected business systems.
+
+Implemented CI/CD workflows to improve deployment speed, release control, rollback confidence, and development reliability.
+
+Worked with CRM automation, Calendly API, Google Maps API, Telnyx SMS, REST APIs, payment gateway logic, webhooks, CRON jobs, and database workflows.
+
+## Featured Project Areas
+
+Internal Management Systems
+
+Business tools for staff/admin workflows, product assignment, inventory tracking, scheduling, secure data handling, and operational visibility.
+
+WordPress + Lodgix Workflow Systems
+
+Custom WordPress development, rental website management, SEO structure, performance optimization, and integration-friendly workflows.
+
+CRM + API Automation
+
+Connected systems using REST APIs, webhooks, SMS workflows, appointment booking logic, customer communication, and backend automation.
+
+Performance + SEO Engineering
+
+Core Web Vitals, Lighthouse, GTmetrix, image optimization, caching, analytics, Google Search Console, and technical SEO cleanup.
+
+AI + Automation Lab
+
+Experimenting with local AI, automation systems, developer tools, and workflows that reduce repetitive technical work.
