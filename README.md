@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Pratik More 👋
 
-<!--
-**pratikmoredev/pratikmoredev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Web Developer & IT Systems Manager based in Ontario, Canada.
 
-Here are some ideas to get you started:
+I build reliable websites, internal tools, automations, APIs, and business workflow systems using PHP, Laravel, WordPress, JavaScript, MySQL, REST APIs, CRM integrations, cloud hosting, and CI/CD workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Stack
+
+PHP · Laravel · WordPress · JavaScript · MySQL · REST APIs · CRM Automation · CI/CD · Cloud Hosting · SEO · Core Web Vitals
+
+## Focus Areas
+
+- Custom WordPress development
+- Laravel internal business tools
+- API and CRM integrations
+- Website performance optimization
+- Deployment and server workflows
+- Business automation systems
+
+## Links
+
+Portfolio: https://pratikmore.dev  
+LinkedIn: https://linkedin.pratikmore.dev  
+Email: pratik@pratikmore.dev
